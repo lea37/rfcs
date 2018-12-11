@@ -1,0 +1,20 @@
+- Start Date: (2018-12-11)
+- RFC PR: (leave this empty)
+- Gatsby Issue: (leave this empty)
+
+# Summary
+
+In the documentation, under Adding website fonctionnality > Routing > Centralizing your site's navigation part
+You don't explain that we need first to import `StaticQuery` from gatsby before using it.
+
+# Motivation
+
+I've done your tutorial and it is the best but still, i've spent 1 hour trying to understand why my menu links were not defined
+when i had them in my conf file.
+I was lucky enough to check egghead videos when i was in the styled component part of gatsby doc, 
+and i saw that i've been missing the import. 
+I know it's kind of nothing maybe, but for people who start, it's really important i guess.
+
+So i hope you'll update the doc ;) 
+
+Thanks again for everything
